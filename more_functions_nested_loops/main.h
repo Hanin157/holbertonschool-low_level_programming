@@ -4,3 +4,4 @@
 int _isupper(int c);
 
 #endif /* MAIN_H */
+int _isdigit(int c);
